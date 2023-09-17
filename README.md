@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvds-dev&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,C%2B%2B,Astro,Ada,Java,Makefile,Rust,Go,Shell,Lua,Assembly,Objective-C,C%23,Scala,TypeScript&layout=compact&hide_progress=true&langs_count=4)
+
+
 <!--
 **jvds-dev/jvds-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
