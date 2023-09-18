@@ -22,3 +22,5 @@ ___
 <img src="https://myreadme.vercel.app/api/embed/jvds-dev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ___
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/71m7MByHIuopPTbmgk7qBl?si=784c88a0b0404fcf)
