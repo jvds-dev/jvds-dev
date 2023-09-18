@@ -22,9 +22,3 @@ ___
 <img src="https://myreadme.vercel.app/api/embed/jvds-dev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ___
-
-<div align='center'>
-<img src="https://profile-counter.glitch.me/{jvds-dev}/count.svg" alt="jvds-dev :: Visitor's Count" />
-</div>
-
-![Unique Visitor Count](https://profile-counter.glitch.me/{jvds-dev}/count.svg)
