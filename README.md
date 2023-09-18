@@ -1,8 +1,3 @@
 ### Hi there 👋
 
-<div class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvds-dev&theme=tokyonight&langs_count=4&" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jvds-dev&show_icons=true&theme=tokyonight" /></div>
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jvds-dev?cardType=github&theme=ocean-dark&preferLogin=false&Background=00000000&Text=006DFF&Border=006DFF&Ring=006DFF&Title=006DFF)](https://git.io/awesome-stats-card)
