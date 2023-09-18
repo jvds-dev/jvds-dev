@@ -22,3 +22,5 @@ ___
 <img src="https://myreadme.vercel.app/api/embed/jvds-dev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ___
+
+<img src="https://profile-counter.glitch.me/{jvds-dev}/count.svg" alt="jvds-dev :: Visitor's Count" />
