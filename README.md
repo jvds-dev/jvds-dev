@@ -23,4 +23,8 @@ ___
 
 ___
 
+<div align='center'>
 <img src="https://profile-counter.glitch.me/{jvds-dev}/count.svg" alt="jvds-dev :: Visitor's Count" />
+</div>
+
+![Unique Visitor Count](https://profile-counter.glitch.me/{jvds-dev}/count.svg)
