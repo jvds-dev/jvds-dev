@@ -8,8 +8,6 @@
 
 ___
 
-
-
 <div display='flex' align='center'>
 
 <img src="https://i.imgur.com/gEjKoZ4.png" width='100'>
@@ -19,9 +17,8 @@ ___
 
 </div>
 
-
-
-
+---
+⠀⠀⠀⠀⠀
 <img src="https://myreadme.vercel.app/api/embed/jvds-dev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ___
