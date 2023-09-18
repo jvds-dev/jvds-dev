@@ -5,7 +5,12 @@
 
 <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&langs_count=4&theme=tokyonight">
 
-
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
 <img src="https://raw.githubusercontent.com/jvds-dev/images/main/html.png?token=GHSAT0AAAAAACHM2TUZ62A6ETWADYZARMSQZIHTGTQ" width="100">
 <img src="https://raw.githubusercontent.com/jvds-dev/images/main/css.png?token=GHSAT0AAAAAACHM2TUYR72X4ZAWFOYKLRL2ZIHTHHA" width='100'>
