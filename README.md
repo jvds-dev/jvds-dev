@@ -8,7 +8,7 @@
 
 <div display='flex' align='center'>
 
-<h1 style='color: #FFC400FF;'>Skillas</h1>
+# SKILLS
 
 <div display='flex' align='center'>
 
@@ -19,7 +19,7 @@
 
 <div display='flex' align='center'>
 
-# Learning
+# LEARNING
 
 <div display='flex' align='center'>
 
