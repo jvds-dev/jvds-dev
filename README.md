@@ -2,8 +2,7 @@
 
 <div display='flex' align='center'>
     
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jvds-dev?cardType=github&theme=gruvbox&preferLogin=true&Background=DD272700&Border=DD272700&Text=FFC400&Title=FFC400&Ring=FFC400)](https://git.io/awesome-stats-card)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jvds-dev?cardType=github&theme=github&preferLogin=true&Background=DD272700&Border=008FFF00&Text=008FFF&Title=008FFF&Ring=008FFF)](https://git.io/awesome-stats-card)
 </div>
 
 <div display='flex' align='center'>
@@ -27,3 +26,4 @@
 
 </div>
 </div>
+
