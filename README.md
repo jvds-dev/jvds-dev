@@ -7,17 +7,8 @@
 </div>
 
 ___
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,figma,photoshop)](https://skillicons.dev)
 
-<div display='flex' align='center'>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-<img src="https://i.imgur.com/gEjKoZ4.png" width='100'>
-<img src="https://i.imgur.com/SAF4Yhu.png" width='100'>
-<img src="https://i.imgur.com/c78qMQP.png" width='100'>
-<img src="https://i.imgur.com/GISRRRb.png" width='100'>
-
-</div>
 
 ---
 ⠀⠀⠀⠀⠀
