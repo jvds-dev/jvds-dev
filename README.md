@@ -6,17 +6,24 @@
 
 </div>
 
-___
+<div display='flex' align='center'>
+
+# Skills
 
 <div display='flex' align='center'>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,figma,photoshop)](https://skillicons.dev)
 
-
+</div>
 </div>
 
----
-⠀⠀⠀⠀⠀
-<img src="https://myreadme.vercel.app/api/embed/jvds-dev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<div display='flex' align='center'>
 
-___
+# Learning
+
+<div display='flex' align='center'>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,java,mysql)](https://skillicons.dev)
+
+</div>
+</div>
