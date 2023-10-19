@@ -7,8 +7,13 @@
 </div>
 
 ___
+
+<div display='flex' align='center'>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,figma,photoshop)](https://skillicons.dev)
 
+
+</div>
 
 ---
 ⠀⠀⠀⠀⠀
