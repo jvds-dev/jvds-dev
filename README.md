@@ -8,7 +8,7 @@
 
 <div display='flex' align='center'>
 
-# Skills
+<h1 style='color: #FFC400FF;'>Skills</h1>
 
 <div display='flex' align='center'>
 
