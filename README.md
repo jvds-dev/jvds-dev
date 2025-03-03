@@ -20,7 +20,7 @@
 
 # LEARNING
 
-<div display='flex' align='center'>
+<div display='flex' align='flex-start'>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,java,mysql)](https://skillicons.dev)
 
