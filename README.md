@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<div display='flex' align='center'>
-    
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jvds-dev?cardType=github&theme=github&preferLogin=true&Background=DD272700&Border=008FFF00&Text=008FFF&Title=008FFF&Ring=008FFF)](https://git.io/awesome-stats-card)
-</div>
-
 <div display='flex' align='flex-start'>
 
 # 🚀
@@ -26,4 +21,22 @@
 
 </div>
 </div>
+
+# 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/jvds-dev?cardType=github&theme=github&preferLogin=true&Background=DD272700&Border=fffc42ff&Text=008FFF&Title=008FFF&Ring=008FFF" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvds-dev&layout=compact&theme=github&border_color=fffc42ff&bg_color=00000000" 
+  />
+</p>
 
