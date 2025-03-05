@@ -29,7 +29,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jvds-dev&bg_color=90,3476b355,351c7355&text_color=ffffff&title_color=ffffff&hide_border=true&card_width=400" 
+    src="https://github-readme-stats.vercel.app/api?username=jvds-dev&bg_color=90,3476b355,351c7355&text_color=ffffff&title_color=ffffff&hide_border=true&card_width=500" 
   />
 
 <img 
