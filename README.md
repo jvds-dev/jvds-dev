@@ -15,7 +15,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=jvds-dev&bg_color=90,444c5355,00000055&text_color=ffffff&title_color=ffcc00&hide_border=true&card_width=100px&show_icons=true&icon_color=ffcc00&rank_icon=github&ring_color=ffcc00&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=jvds-dev&bg_color=90,444c5355,00000055&text_color=ffffff&title_color=ffcc00&hide_border=true&card_width=100px&show_icons=true&icon_color=ffcc00&rank_icon=github&ring_color=ffcc00&include_all_commits=True" 
   />
 
 <img 
